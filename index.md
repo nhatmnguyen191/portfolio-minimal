@@ -8,4 +8,4 @@
 <br>
 <center>But it's finally done.</center>
 <br>
-<center><img src="/assets/img/done.jpg"/></center>
+<center><img src="./assets/img/done.jpg"/></center>
