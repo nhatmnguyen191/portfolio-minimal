@@ -1,8 +1,10 @@
-# Knock knock
+# PROJECT KNOCK KNOCK
+<br>
+## Knock knock
 ### Who's there?
-# Class exercise
+## Class exercise
 ### Class exercise what?
-# Class exercise making a portfolio page on github to get to the next module even though it's said "optional"
+## Class exercise making a portfolio page on github to get to the next module even though there's nothing to show here yet.
 
 ***
 <br>
